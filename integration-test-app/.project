@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>functional-test-app</name>
-	<comment>Project functional-test-app created by Buildship.</comment>
+	<name>integration-test-app</name>
+	<comment>Project integration-test-app created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
